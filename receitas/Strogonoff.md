@@ -1,6 +1,12 @@
-# Receita de Strogonoff de Frango
+# Receita de Strogonoff de frango
+
+
 
 ### Ingredientes
+
+Enviar lista
+
+
 
 - - 500 g de carne em tiras finas
   - 1 pitada de pimenta-do-reino
